@@ -8,7 +8,7 @@ This project provides a detailed review of the observation of the Higgs boson de
 - **Findings:** Observed an event excess with a combined significance of 5.6σ, affirming the Higgs boson's decay into bottom quarks and reinforcing the predictions of the Standard Model.
 
 ## Contents
-A detailed review explaining the theoretical background, experimental setup, methods, and results can be found in the file HBB.pdf located in this repository.
+A detailed review explaining the theoretical background, experimental setup, methods, and results can be found in the file `HBB.pdf` located in this repository.
 
 ## Significance
 This study enhances understanding of the Yukawa coupling and the Higgs mechanism's role in mass generation, providing a pathway for exploring physics beyond the Standard Model.
